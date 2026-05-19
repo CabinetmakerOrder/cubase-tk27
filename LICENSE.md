@@ -1,4 +1,4 @@
-# 
+# 新 DaVinci Resolve PC版 插件 是最佳 DaVinci Resolve PC版 插件，集成 时间重映射 和 插件支持。安全、可靠、优化，性能最大化。
 
 
 
